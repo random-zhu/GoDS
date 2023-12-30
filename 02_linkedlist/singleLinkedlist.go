@@ -14,3 +14,7 @@ type LindedList struct {
 	head   *ListNode
 	length uint
 }
+
+func NewLindedList() *ListNode {
+
+}
